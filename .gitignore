@@ -3,7 +3,7 @@
 
 # Dependency directory
 node_modules
-
+server/setup-scripts/generated
 # Test coverage directory
 coverage
 

@@ -1,0 +1,237 @@
+{
+    "id": 2393004114058,
+    "email": "",
+    "closed_at": null,
+    "created_at": "2020-08-13T16:21:12-04:00",
+    "updated_at": "2020-08-13T16:21:13-04:00",
+    "number": 1,
+    "note": "",
+    "token": "ed55eb6dab681930ccdc367b7bd63d12",
+    "gateway": "manual",
+    "test": false,
+    "total_price": "89.68",
+    "subtotal_price": "78.00",
+    "total_weight": 457,
+    "total_tax": "11.68",
+    "taxes_included": false,
+    "currency": "CAD",
+    "financial_status": "paid",
+    "confirmed": true,
+    "total_discounts": "0.00",
+    "total_line_items_price": "78.00",
+    "cart_token": null,
+    "buyer_accepts_marketing": false,
+    "name": "#1001",
+    "referring_site": null,
+    "landing_site": null,
+    "cancelled_at": null,
+    "cancel_reason": null,
+    "total_price_usd": "67.72",
+    "checkout_token": null,
+    "reference": null,
+    "user_id": 44975489162,
+    "location_id": 39136231562,
+    "source_identifier": null,
+    "source_url": null,
+    "processed_at": "2020-08-13T16:21:12-04:00",
+    "device_id": null,
+    "phone": null,
+    "customer_locale": null,
+    "app_id": 1354745,
+    "browser_ip": null,
+    "landing_site_ref": null,
+    "order_number": 1001,
+    "discount_applications": [],
+    "discount_codes": [],
+    "note_attributes": [],
+    "payment_gateway_names": [
+        "manual"
+    ],
+    "processing_method": "manual",
+    "checkout_id": null,
+    "source_name": "shopify_draft_order",
+    "fulfillment_status": null,
+    "tax_lines": [
+        {
+            "price": "3.90",
+            "rate": 0.05,
+            "title": "GST",
+            "price_set": {
+                "shop_money": {
+                    "amount": "3.90",
+                    "currency_code": "CAD"
+                },
+                "presentment_money": {
+                    "amount": "3.90",
+                    "currency_code": "CAD"
+                }
+            }
+        },
+        {
+            "price": "7.78",
+            "rate": 0.09975,
+            "title": "QST",
+            "price_set": {
+                "shop_money": {
+                    "amount": "7.78",
+                    "currency_code": "CAD"
+                },
+                "presentment_money": {
+                    "amount": "7.78",
+                    "currency_code": "CAD"
+                }
+            }
+        }
+    ],
+    "tags": "",
+    "contact_email": null,
+    "order_status_url": "https:\/\/stefar.myshopify.com\/31919440010\/orders\/ed55eb6dab681930ccdc367b7bd63d12\/authenticate?key=c00d99080ee7883c7a2931367b6cfc88",
+    "presentment_currency": "CAD",
+    "total_line_items_price_set": {
+        "shop_money": {
+            "amount": "78.00",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "78.00",
+            "currency_code": "CAD"
+        }
+    },
+    "total_discounts_set": {
+        "shop_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+        }
+    },
+    "total_shipping_price_set": {
+        "shop_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+        }
+    },
+    "subtotal_price_set": {
+        "shop_money": {
+            "amount": "78.00",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "78.00",
+            "currency_code": "CAD"
+        }
+    },
+    "total_price_set": {
+        "shop_money": {
+            "amount": "89.68",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "89.68",
+            "currency_code": "CAD"
+        }
+    },
+    "total_tax_set": {
+        "shop_money": {
+            "amount": "11.68",
+            "currency_code": "CAD"
+        },
+        "presentment_money": {
+            "amount": "11.68",
+            "currency_code": "CAD"
+        }
+    },
+    "line_items": [
+        {
+            "id": 5250879783050,
+            "variant_id": 34547013058698,
+            "title": "Blue Silk Tuxedo",
+            "quantity": 1,
+            "sku": "",
+            "variant_title": "xs",
+            "vendor": "Liam Fashions",
+            "fulfillment_service": "manual",
+            "product_id": 5273806930058,
+            "requires_shipping": true,
+            "taxable": true,
+            "gift_card": false,
+            "name": "Blue Silk Tuxedo - xs",
+            "variant_inventory_management": "shopify",
+            "properties": [],
+            "product_exists": true,
+            "fulfillable_quantity": 1,
+            "grams": 457,
+            "price": "78.00",
+            "total_discount": "0.00",
+            "fulfillment_status": null,
+            "price_set": {
+                "shop_money": {
+                    "amount": "78.00",
+                    "currency_code": "CAD"
+                },
+                "presentment_money": {
+                    "amount": "78.00",
+                    "currency_code": "CAD"
+                }
+            },
+            "total_discount_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "CAD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "CAD"
+                }
+            },
+            "discount_allocations": [],
+            "duties": [],
+            "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/5250879783050",
+            "tax_lines": [
+                {
+                    "title": "GST",
+                    "price": "3.90",
+                    "rate": 0.05,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "3.90",
+                            "currency_code": "CAD"
+                        },
+                        "presentment_money": {
+                            "amount": "3.90",
+                            "currency_code": "CAD"
+                        }
+                    }
+                },
+                {
+                    "title": "QST",
+                    "price": "7.78",
+                    "rate": 0.09975,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "7.78",
+                            "currency_code": "CAD"
+                        },
+                        "presentment_money": {
+                            "amount": "7.78",
+                            "currency_code": "CAD"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "fulfillments": [],
+    "refunds": [],
+    "total_tip_received": "0.0",
+    "original_total_duties_set": null,
+    "current_total_duties_set": null,
+    "admin_graphql_api_id": "gid:\/\/shopify\/Order\/2393004114058",
+    "shipping_lines": []
+}

@@ -1,0 +1,18 @@
+{
+  "orderCount": 0,
+  "active": true,
+  "orderThreshold": 3,
+  "reward": "next_value",
+  "pollinatorPointsValue": 100,
+  "timesGrantedBonusCount": 0,
+  "customers": [{ "id": "", "name": "", "orderCount": 0 }],
+  "orders": [{ "id": "" }],
+  "variants": {
+    "id": "",
+    "orderCount": 0,
+    "timesGrantedBonusCount": 0,
+    "timesAsBonusCount": 0,
+    "customers": [{ "id": "", "name": "", "orderCount": 0 }],
+    "orders": [{ "id": "" }]
+  }
+}

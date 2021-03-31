@@ -1,0 +1,344 @@
+{
+    "id": 2423301275781,
+    "email": "dwheatley@apple.com",
+    "closed_at": null,
+    "created_at": "2020-08-14T13:28:47-04:00",
+    "updated_at": "2020-08-14T13:28:49-04:00",
+    "number": 715,
+    "note": null,
+    "token": "af223c79d911ccf3834035f722fc5cd2",
+    "gateway": "shopify_payments",
+    "test": false,
+    "total_price": "70.00",
+    "subtotal_price": "60.00",
+    "total_weight": 1200,
+    "total_tax": "7.14",
+    "taxes_included": true,
+    "currency": "EUR",
+    "financial_status": "authorized",
+    "confirmed": true,
+    "total_discounts": "0.00",
+    "total_line_items_price": "60.00",
+    "cart_token": "",
+    "buyer_accepts_marketing": false,
+    "name": "#1715",
+    "referring_site": "https:\/\/bumblebeeflowerfarm.ie\/",
+    "landing_site": "\/api\/2020-07\/graphql.json",
+    "cancelled_at": null,
+    "cancel_reason": null,
+    "total_price_usd": "82.71",
+    "checkout_token": "47e97176d35255d8816e1cd194a5da6b",
+    "reference": null,
+    "user_id": null,
+    "location_id": null,
+    "source_identifier": null,
+    "source_url": null,
+    "processed_at": "2020-08-14T13:28:46-04:00",
+    "device_id": null,
+    "phone": null,
+    "customer_locale": "en",
+    "app_id": 3426279,
+    "browser_ip": "76.220.32.192",
+    "landing_site_ref": null,
+    "order_number": 1715,
+    "discount_applications": [],
+    "discount_codes": [],
+    "note_attributes": [],
+    "payment_gateway_names": [
+        "shopify_payments"
+    ],
+    "processing_method": "direct",
+    "checkout_id": 13183050907781,
+    "source_name": "web",
+    "fulfillment_status": null,
+    "tax_lines": [
+        {
+            "price": "7.14",
+            "rate": 0.135,
+            "title": "VAT",
+            "price_set": {
+                "shop_money": {
+                    "amount": "7.14",
+                    "currency_code": "EUR"
+                },
+                "presentment_money": {
+                    "amount": "7.14",
+                    "currency_code": "EUR"
+                }
+            }
+        }
+    ],
+    "tags": "",
+    "contact_email": "dwheatley@apple.com",
+    "order_status_url": "https:\/\/bumblebee-flower-farm.myshopify.com\/31766642821\/orders\/af223c79d911ccf3834035f722fc5cd2\/authenticate?key=f03acb7bfff4b11174421a818f17f7d0",
+    "presentment_currency": "EUR",
+    "total_line_items_price_set": {
+        "shop_money": {
+            "amount": "60.00",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "60.00",
+            "currency_code": "EUR"
+        }
+    },
+    "total_discounts_set": {
+        "shop_money": {
+            "amount": "0.00",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "EUR"
+        }
+    },
+    "total_shipping_price_set": {
+        "shop_money": {
+            "amount": "10.00",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "10.00",
+            "currency_code": "EUR"
+        }
+    },
+    "subtotal_price_set": {
+        "shop_money": {
+            "amount": "60.00",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "60.00",
+            "currency_code": "EUR"
+        }
+    },
+    "total_price_set": {
+        "shop_money": {
+            "amount": "70.00",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "70.00",
+            "currency_code": "EUR"
+        }
+    },
+    "total_tax_set": {
+        "shop_money": {
+            "amount": "7.14",
+            "currency_code": "EUR"
+        },
+        "presentment_money": {
+            "amount": "7.14",
+            "currency_code": "EUR"
+        }
+    },
+    "line_items": [
+        {
+            "id": 5258596745349,
+            "variant_id": 32115885015173,
+            "title": "Gift of Life",
+            "quantity": 1,
+            "sku": "SFCF-001-003",
+            "variant_title": "Vibrant mix \/ Large",
+            "vendor": "Bumblebee Flower Farm",
+            "fulfillment_service": "manual",
+            "product_id": 4523140284549,
+            "requires_shipping": true,
+            "taxable": true,
+            "gift_card": false,
+            "name": "Gift of Life - Vibrant mix \/ Large",
+            "variant_inventory_management": "shopify",
+            "properties": [],
+            "product_exists": true,
+            "fulfillable_quantity": 1,
+            "grams": 1200,
+            "price": "60.00",
+            "total_discount": "0.00",
+            "fulfillment_status": null,
+            "price_set": {
+                "shop_money": {
+                    "amount": "60.00",
+                    "currency_code": "EUR"
+                },
+                "presentment_money": {
+                    "amount": "60.00",
+                    "currency_code": "EUR"
+                }
+            },
+            "total_discount_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "EUR"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "EUR"
+                }
+            },
+            "discount_allocations": [],
+            "duties": [],
+            "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/5258596745349",
+            "tax_lines": [
+                {
+                    "title": "VAT",
+                    "price": "7.14",
+                    "rate": 0.135,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "7.14",
+                            "currency_code": "EUR"
+                        },
+                        "presentment_money": {
+                            "amount": "7.14",
+                            "currency_code": "EUR"
+                        }
+                    }
+                }
+            ],
+            "origin_location": {
+                "id": 1762685026437,
+                "country_code": "IE",
+                "province_code": "CO",
+                "name": "Bumblebee Flower Farm",
+                "address1": "Leitra Upper, Castledonavan",
+                "address2": "",
+                "city": "Drimoleague",
+                "zip": "P47 KX75"
+            }
+        }
+    ],
+    "fulfillments": [],
+    "refunds": [],
+    "total_tip_received": "0.0",
+    "original_total_duties_set": null,
+    "current_total_duties_set": null,
+    "admin_graphql_api_id": "gid:\/\/shopify\/Order\/2423301275781",
+    "shipping_lines": [
+        {
+            "id": 1980852437125,
+            "title": "Standard",
+            "price": "10.00",
+            "code": "Standard",
+            "source": "shopify",
+            "phone": null,
+            "requested_fulfillment_service_id": null,
+            "delivery_category": null,
+            "carrier_identifier": null,
+            "discounted_price": "10.00",
+            "price_set": {
+                "shop_money": {
+                    "amount": "10.00",
+                    "currency_code": "EUR"
+                },
+                "presentment_money": {
+                    "amount": "10.00",
+                    "currency_code": "EUR"
+                }
+            },
+            "discounted_price_set": {
+                "shop_money": {
+                    "amount": "10.00",
+                    "currency_code": "EUR"
+                },
+                "presentment_money": {
+                    "amount": "10.00",
+                    "currency_code": "EUR"
+                }
+            },
+            "discount_allocations": [],
+            "tax_lines": []
+        }
+    ],
+    "billing_address": {
+        "first_name": "Donna",
+        "address1": "1 Apple Park Way",
+        "phone": "(408) 515-7072",
+        "city": "Cupertino",
+        "zip": "95014",
+        "province": "California",
+        "country": "United States",
+        "last_name": "Wheatley",
+        "address2": "922-1SDM",
+        "company": null,
+        "latitude": 37.3294281,
+        "longitude": -122.0102583,
+        "name": "Donna Wheatley",
+        "country_code": "US",
+        "province_code": "CA"
+    },
+    "shipping_address": {
+        "first_name": "Micheal ",
+        "address1": "24 Willowbank, Millroad, Midelton",
+        "phone": "+353 86 827 1915",
+        "city": "Co Cork",
+        "zip": "P25 XY44",
+        "province": "Cork",
+        "country": "Ireland",
+        "last_name": "Barry",
+        "address2": "Micheal, Our thoughts and prayers to you and your family.  Sincerely, Global L\u0026D Team",
+        "company": null,
+        "latitude": null,
+        "longitude": null,
+        "name": "Micheal  Barry",
+        "country_code": "IE",
+        "province_code": "CO"
+    },
+    "client_details": {
+        "browser_ip": "76.220.32.192",
+        "accept_language": "en-us",
+        "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.1.2 Safari\/605.1.15",
+        "session_hash": null,
+        "browser_width": 1418,
+        "browser_height": 1167
+    },
+    "payment_details": {
+        "credit_card_bin": "379651",
+        "avs_result_code": "Y",
+        "cvv_result_code": "M",
+        "credit_card_number": "•••• •••• •••• 1004",
+        "credit_card_company": "American Express"
+    },
+    "customer": {
+        "id": 3635611074693,
+        "email": "dwheatley@apple.com",
+        "accepts_marketing": false,
+        "created_at": "2020-08-14T13:18:06-04:00",
+        "updated_at": "2020-08-14T13:28:48-04:00",
+        "first_name": "Donna",
+        "last_name": "Wheatley",
+        "orders_count": 1,
+        "state": "disabled",
+        "total_spent": "70.00",
+        "last_order_id": 2423301275781,
+        "note": null,
+        "verified_email": true,
+        "multipass_identifier": null,
+        "tax_exempt": false,
+        "phone": null,
+        "tags": "",
+        "last_order_name": "#1715",
+        "currency": "EUR",
+        "accepts_marketing_updated_at": "2020-08-14T13:18:06-04:00",
+        "marketing_opt_in_level": null,
+        "admin_graphql_api_id": "gid:\/\/shopify\/Customer\/3635611074693",
+        "default_address": {
+            "id": 3766778462341,
+            "customer_id": 3635611074693,
+            "first_name": "Micheal ",
+            "last_name": "Barry",
+            "company": null,
+            "address1": "24 Willowbank, Millroad, Midelton",
+            "address2": "Micheal, Our thoughts and prayers to you and your family.  Sincerely, Global L\u0026D Team",
+            "city": "Co Cork",
+            "province": "Cork",
+            "country": "Ireland",
+            "zip": "P25 XY44",
+            "phone": "+353 86 827 1915",
+            "name": "Micheal  Barry",
+            "province_code": "CO",
+            "country_code": "IE",
+            "country_name": "Ireland",
+            "default": true
+        }
+    }
+}

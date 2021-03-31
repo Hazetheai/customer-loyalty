@@ -1,0 +1,314 @@
+{
+  "topic": "ORDERS_CREATE",
+  "domain": "stefar.myshopify.com",
+  "payload": {
+    "id": 2395483996298,
+    "email": "jake@mail.com",
+    "closed_at": null,
+    "created_at": "2020-08-15T16:33:20-04:00",
+    "updated_at": "2020-08-15T16:33:21-04:00",
+    "number": 8,
+    "note": null,
+    "token": "d9639626b68cc57ff01c8626be6571aa",
+    "gateway": "bogus",
+    "test": true,
+    "total_price": "115.60",
+    "subtotal_price": "74.00",
+    "total_weight": 356,
+    "total_tax": "0.00",
+    "taxes_included": false,
+    "currency": "CAD",
+    "financial_status": "authorized",
+    "confirmed": true,
+    "total_discounts": "0.00",
+    "total_line_items_price": "74.00",
+    "cart_token": "",
+    "buyer_accepts_marketing": false,
+    "name": "#1008",
+    "referring_site": "https://stefar.myshopify.com/collections/frontpage/products/led-high-tops",
+    "landing_site": "/wallets/checkouts.json",
+    "cancelled_at": null,
+    "cancel_reason": null,
+    "total_price_usd": "87.16",
+    "checkout_token": "1ba1514dcdf4741fbbc29699e099611d",
+    "reference": null,
+    "user_id": null,
+    "location_id": null,
+    "source_identifier": null,
+    "source_url": null,
+    "processed_at": "2020-08-15T16:33:19-04:00",
+    "device_id": null,
+    "phone": null,
+    "customer_locale": "en",
+    "app_id": 580111,
+    "browser_ip": "142.117.159.176",
+    "landing_site_ref": null,
+    "order_number": 1008,
+    "discount_applications": [],
+    "discount_codes": [],
+    "note_attributes": [],
+    "payment_gateway_names": ["bogus"],
+    "processing_method": "direct",
+    "checkout_id": 13151549882506,
+    "source_name": "web",
+    "fulfillment_status": null,
+    "tax_lines": [],
+    "tags": "",
+    "contact_email": "jake@mail.com",
+    "order_status_url": "https://stefar.myshopify.com/31919440010/orders/d9639626b68cc57ff01c8626be6571aa/authenticate?key=ca7195ecf9baba08a3c21d91fabb319b",
+    "presentment_currency": "CAD",
+    "total_line_items_price_set": {
+      "shop_money": {
+        "amount": "74.00",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "74.00",
+        "currency_code": "CAD"
+      }
+    },
+    "total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "CAD"
+      }
+    },
+    "total_shipping_price_set": {
+      "shop_money": {
+        "amount": "41.60",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "41.60",
+        "currency_code": "CAD"
+      }
+    },
+    "subtotal_price_set": {
+      "shop_money": {
+        "amount": "74.00",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "74.00",
+        "currency_code": "CAD"
+      }
+    },
+    "total_price_set": {
+      "shop_money": {
+        "amount": "115.60",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "115.60",
+        "currency_code": "CAD"
+      }
+    },
+    "total_tax_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "CAD"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "CAD"
+      }
+    },
+    "line_items": [
+      {
+        "id": 5256217100426,
+        "variant_id": 34547011190922,
+        "title": "LED High Tops",
+        "quantity": 1,
+        "sku": "",
+        "variant_title": "US 8",
+        "vendor": "Liam Fashions",
+        "fulfillment_service": "manual",
+        "product_id": 5273806504074,
+        "requires_shipping": true,
+        "taxable": true,
+        "gift_card": false,
+        "name": "LED High Tops - US 8",
+        "variant_inventory_management": "shopify",
+        "properties": [],
+        "product_exists": true,
+        "fulfillable_quantity": 1,
+        "grams": 356,
+        "price": "74.00",
+        "total_discount": "0.00",
+        "fulfillment_status": null,
+        "price_set": {
+          "shop_money": {
+            "amount": "74.00",
+            "currency_code": "CAD"
+          },
+          "presentment_money": {
+            "amount": "74.00",
+            "currency_code": "CAD"
+          }
+        },
+        "total_discount_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "CAD"
+          }
+        },
+        "discount_allocations": [],
+        "duties": [],
+        "admin_graphql_api_id": "gid://shopify/LineItem/5256217100426",
+        "tax_lines": [],
+        "origin_location": {
+          "id": 2107878277258,
+          "country_code": "CA",
+          "province_code": "QC",
+          "name": "Stefar",
+          "address1": "6285 Rue Alma",
+          "address2": "",
+          "city": "Montreal",
+          "zip": "H2S2W2"
+        }
+      }
+    ],
+    "fulfillments": [],
+    "refunds": [],
+    "total_tip_received": "0.0",
+    "original_total_duties_set": null,
+    "current_total_duties_set": null,
+    "admin_graphql_api_id": "gid://shopify/Order/2395483996298",
+    "shipping_lines": [
+      {
+        "id": 1921121714314,
+        "title": "Tracked Packet International",
+        "price": "41.60",
+        "code": "INT.TP",
+        "source": "canada_post",
+        "phone": null,
+        "requested_fulfillment_service_id": null,
+        "delivery_category": null,
+        "carrier_identifier": null,
+        "discounted_price": "41.60",
+        "price_set": {
+          "shop_money": {
+            "amount": "41.60",
+            "currency_code": "CAD"
+          },
+          "presentment_money": {
+            "amount": "41.60",
+            "currency_code": "CAD"
+          }
+        },
+        "discounted_price_set": {
+          "shop_money": {
+            "amount": "41.60",
+            "currency_code": "CAD"
+          },
+          "presentment_money": {
+            "amount": "41.60",
+            "currency_code": "CAD"
+          }
+        },
+        "discount_allocations": [],
+        "tax_lines": []
+      }
+    ],
+    "billing_address": {
+      "first_name": "Jake",
+      "address1": "Leitra Upper",
+      "phone": null,
+      "city": "Drimoleague",
+      "zip": "P47HK74",
+      "province": "Longford",
+      "country": "Ireland",
+      "last_name": "Riordan",
+      "address2": "Castledonavan",
+      "company": null,
+      "latitude": null,
+      "longitude": null,
+      "name": "Jake Riordan",
+      "country_code": "IE",
+      "province_code": "LD"
+    },
+    "shipping_address": {
+      "first_name": "Jake",
+      "address1": "Leitra Upper",
+      "phone": null,
+      "city": "Drimoleague",
+      "zip": "P47HK74",
+      "province": "Longford",
+      "country": "Ireland",
+      "last_name": "Riordan",
+      "address2": "Castledonavan",
+      "company": null,
+      "latitude": null,
+      "longitude": null,
+      "name": "Jake Riordan",
+      "country_code": "IE",
+      "province_code": "LD"
+    },
+    "client_details": {
+      "browser_ip": "142.117.159.176",
+      "accept_language": "en-GB,en;q=0.5",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:79.0) Gecko/20100101 Firefox/79.0",
+      "session_hash": null,
+      "browser_width": 1425,
+      "browser_height": 775
+    },
+    "payment_details": {
+      "credit_card_bin": "1",
+      "avs_result_code": null,
+      "cvv_result_code": null,
+      "credit_card_number": "•••• •••• •••• 1",
+      "credit_card_company": "Bogus"
+    },
+    "customer": {
+      "id": 3529320202378,
+      "email": "jake@mail.com",
+      "accepts_marketing": false,
+      "created_at": "2020-08-15T15:34:03-04:00",
+      "updated_at": "2020-08-15T16:33:21-04:00",
+      "first_name": "Jake",
+      "last_name": "Riordan",
+      "orders_count": 0,
+      "state": "disabled",
+      "total_spent": "0.00",
+      "last_order_id": null,
+      "note": null,
+      "verified_email": true,
+      "multipass_identifier": null,
+      "tax_exempt": false,
+      "phone": null,
+      "tags": "",
+      "last_order_name": null,
+      "currency": "CAD",
+      "accepts_marketing_updated_at": "2020-08-15T15:34:03-04:00",
+      "marketing_opt_in_level": null,
+      "admin_graphql_api_id": "gid://shopify/Customer/3529320202378",
+      "default_address": {
+        "id": 3656557232266,
+        "customer_id": 3529320202378,
+        "first_name": "Jake",
+        "last_name": "Riordan",
+        "company": null,
+        "address1": "Leitra Upper",
+        "address2": "Castledonavan",
+        "city": "Drimoleague",
+        "province": "Longford",
+        "country": "Ireland",
+        "zip": "P47HK74",
+        "phone": null,
+        "name": "Jake Riordan",
+        "province_code": "LD",
+        "country_code": "IE",
+        "country_name": "Ireland",
+        "default": true
+      }
+    }
+  }
+}
